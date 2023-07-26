@@ -1,1 +1,1 @@
-FROM ngnix
+FROM nginx
